@@ -1,0 +1,22 @@
+{
+  "name": "js_project",
+  "version": "1.0.0",
+  "description": "JavaScript work through",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kendam"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Shams",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
